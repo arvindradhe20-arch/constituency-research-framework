@@ -1,0 +1,2 @@
+issue_id,date_reported,location,issue_category,description,evidence_type,source_reference,verification_status,follow_up,status
+I-001,YYYY-MM-DD,Example Area,Infrastructure,Example issue description,Public source/Field observation,Source or field note,Pending,Verify with authoritative source,Open
