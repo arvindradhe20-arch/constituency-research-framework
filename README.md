@@ -19,11 +19,11 @@ The purpose is to demonstrate how fragmented information can be converted into a
 
 A constituency intelligence exercise should help a research team answer five broad questions:
 
-1. **What does the constituency look like?** — geography, administrative structure, population and socio-economic context.
-2. **What issues are residents reporting?** — recurring governance, infrastructure, livelihood and service-delivery concerns.
-3. **Who are the relevant stakeholders?** — public institutions, elected representatives, civil-society actors, community organisations and other publicly identifiable stakeholders.
-4. **What does available evidence show?** — election results, government data, surveys, field reports and publicly available sources.
-5. **How should information be monitored?** — a repeatable reporting structure that distinguishes verified facts, field observations, public claims and unresolved questions.
+1. **What does the constituency look like?**  geography, administrative structure, population and socio-economic context.
+2. **What issues are residents reporting?**  recurring governance, infrastructure, livelihood and service-delivery concerns.
+3. **Who are the relevant stakeholders?**  public institutions, elected representatives, civil-society actors, community organisations and other publicly identifiable stakeholders.
+4. **What does available evidence show?**  election results, government data, surveys, field reports and publicly available sources.
+5. **How should information be monitored?**  a repeatable reporting structure that distinguishes verified facts, field observations, public claims and unresolved questions.
 
 ## Framework Architecture
 
