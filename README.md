@@ -40,7 +40,7 @@ A constituency intelligence exercise should help a research team answer five bro
 | 09 | Media & Public Information Monitoring | Issue/media tracker |
 | 10 | Reporting & Decision Support | Weekly/monthly intelligence brief |
 
-## 01 — Constituency Profile
+## 01  Constituency Profile
 
 Create a concise baseline profile containing:
 
@@ -56,7 +56,7 @@ Create a concise baseline profile containing:
 
 Every factual field should include a **source and date** so that historical information is not presented as current information.
 
-## 02 — Geographic & Administrative Mapping
+## 02  Geographic & Administrative Mapping
 
 The objective is to understand how the constituency is organised administratively and geographically.
 
@@ -68,7 +68,7 @@ Suggested fields:
 
 Geographic analysis should rely on legitimate public or project-authorised data and should avoid publishing sensitive household-level information.
 
-## 03 — Socio-Economic Profile
+## 03  Socio-Economic Profile
 
 Possible indicators include:
 
@@ -85,7 +85,7 @@ Possible indicators include:
 
 The analytical principle is simple: **indicator → source → date → comparison → research implication**.
 
-## 04 — Electoral History
+## 04 Electoral History
 
 Historical election information should be recorded descriptively rather than converted into unsupported forecasts.
 
@@ -95,7 +95,7 @@ Historical election information should be recorded descriptively rather than con
 
 Useful analysis may document turnout, historical changes and publicly reported results while clearly separating historical evidence from current public opinion.
 
-## 05 — Issue Mapping
+## 05  Issue Mapping
 
 Issue mapping converts unstructured observations into a research register.
 
@@ -119,7 +119,7 @@ Each issue should be marked as one of:
 
 This prevents assumptions from being presented as established facts.
 
-## 06 — Stakeholder Mapping
+## 06  Stakeholder Mapping
 
 The framework maps **roles and institutions**, not private political preferences.
 
@@ -143,7 +143,7 @@ Possible stakeholder categories:
 
 Sensitive personal data and inferred political preferences should not be collected or published.
 
-## 07 — Field Intelligence Framework
+## 07  Field Intelligence Framework
 
 Field research should use a consistent reporting format so observations from different researchers remain comparable.
 
@@ -171,7 +171,7 @@ Field research should use a consistent reporting format so observations from dif
 **Follow-up research required**
 - Action 1
 
-## 08 — Public Opinion & Survey Analytics
+## 08  Public Opinion & Survey Analytics
 
 A survey module can measure attitudes toward public issues and governance priorities when designed with appropriate sampling and privacy safeguards.
 
@@ -198,7 +198,7 @@ A survey module can measure attitudes toward public issues and governance priori
 
 Survey findings should never be presented as representative of the entire constituency unless the sampling design supports that conclusion.
 
-## 09 — Media & Public Information Monitoring
+## 09  Media & Public Information Monitoring
 
 A structured tracker can consolidate publicly available developments.
 
@@ -208,7 +208,7 @@ A structured tracker can consolidate publicly available developments.
 
 Potential sources include official government releases, Election Commission material, legislative records, credible news reporting and other transparent public sources.
 
-## 10 — Intelligence Reporting
+## 10  Intelligence Reporting
 
 ### Weekly Research Brief
 
